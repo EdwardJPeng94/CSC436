@@ -7,7 +7,10 @@
  * 3. Open hw1.js in VS Code, or your preferred text editor or IDE.
  * 4. Implement all the TODOs described in commments below and save your work.
  * 
-
+*
+*
+*
+*
  * Validating your changes:
  * 1. Ensure you have Node.js LTS or newer installed: https://nodejs.org/en/download/
  * 2. Open cmd or terminal, change directory (cd) to the location of your hw1 directory.
